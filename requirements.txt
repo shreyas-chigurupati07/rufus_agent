@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+lxml
+pandas
+numpy
+fastapi
+uvicorn
+pydantic
+pytest
+pytest-asyncio
+-e .

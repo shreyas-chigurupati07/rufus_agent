@@ -1,0 +1,28 @@
+.
+├── LICENSE
+├── README.md
+├── data
+│   └── rufusAgent
+│       └── output.json
+├── main.py
+├── requirements.txt
+├── research
+│   └── trails.ipynb
+├── setup.py
+├── src
+│   └── rufusAgent
+│       ├── __init__.py
+│       ├── __pycache__
+│       │   ├── __init__.cpython-313.pyc
+│       │   └── scraper.cpython-313.pyc
+│       ├── api.py
+│       ├── basic_web_scraper.py
+│       └── scraper.py
+├── template.py
+└── tests
+    └── rufusAgent
+        ├── __pycache__
+        │   └── test_scraper.cpython-312-pytest-7.4.4.pyc
+        └── test_scraper.py
+
+10 directories, 16 files

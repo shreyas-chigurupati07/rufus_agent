@@ -13,7 +13,6 @@ list_of_files = [
     'README.md',
     'requirements.txt',
     'setup.py',
-    '.env',
     '.gitignore',
     'data/raw/.gitkeep',
     'data/processed/.gitkeep',
